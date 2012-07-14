@@ -100,3 +100,6 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY com.android.ide.eclipse.adt 2 0 2012-07-14 13:11:10.825
 !MESSAGE activity_main.xml: Couldn't resolve resource @string/hello_world
+
+!ENTRY org.eclipse.ui 4 4 2012-07-14 13:36:03.276
+!MESSAGE Invalid preference page path: XML Syntax
