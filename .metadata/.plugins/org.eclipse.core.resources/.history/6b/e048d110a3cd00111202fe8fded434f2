@@ -7,9 +7,6 @@
     <string name="menu_highscores">High Scores</string>
     <string name="game_speedtest">Speed Test</string>
     <string name="game_accuracytest">Accuracy Test</string>
-    <string name="game_quickwordtest">Quick Words</string>
-    <string name="difficulty_hard">Hard</string>
-    <string name="difficulty_normal">Normal</string>
-    <string name="difficulty_easy">Easy</string>
+    <string name=""
 
 </resources>
